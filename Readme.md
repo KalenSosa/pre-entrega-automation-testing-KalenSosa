@@ -3,10 +3,13 @@
 Este proyecto es la pre-entrega del curso de Automatización de Pruebas QA y tiene como objetivo demostrar la aplicación de Selenium WebDriver y Python para automatizar flujos básicos de navegación y testing en la aplicación web SauceDemo.
 
 # Tecnologías Utilizadas:
-Python: Lenguaje de programación principal.
-Selenium WebDriver: Herramienta para la automatización de la interacción con el navegador.
-Pytest: Framework de pruebas utilizado para estructurar, organizar y ejecutar los casos de prueba.
-Git & GitHub: Sistema de control de versiones y hosting del repositorio.
+- Python: Lenguaje de programación principal.
+
+- Selenium WebDriver: Herramienta para la automatización de la interacción con el navegador.
+
+- Pytest: Framework de pruebas utilizado para estructurar, organizar y ejecutar los casos de prueba.
+
+- Git & GitHub: Sistema de control de versiones y hosting del repositorio.
 
 # Acceso a los Test Cases:
 Se brinda acceso a los test cases realizados mediante el link 
