@@ -1,4 +1,4 @@
-# Pre-Entrega Proyecto QA Automation con SauceDemoEste:
+# Pre-Entrega Proyecto QA Automation con SauceDemo:
 
 Este proyecto es la pre-entrega del curso de Automatización de Pruebas QA y tiene como objetivo demostrar la aplicación de Selenium WebDriver y Python para automatizar flujos básicos de navegación y testing en la aplicación web SauceDemo.
 
